@@ -1,0 +1,33 @@
+body{
+    background-color:#30475e;
+}
+.topcontainer{
+    width:70%;
+    color:#75daad;
+    font-family: 'Roboto';
+    text-align: center;
+    font-size:4rem;
+    margin:auto;
+    
+}
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+h2{
+    color:#f35588;
+    font-family: 'Dancing Script';
+    
+    font-size: 3rem;
+}
+footer{
+    font-size:1rem;
+    color:white;
+    
+
+}
+img{
+   width:70%;
+   
+   
+}
